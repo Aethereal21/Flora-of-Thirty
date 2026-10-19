@@ -1,0 +1,228 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#080847" />
+    <meta
+      name="description"
+      content="Jelajahi katalog nama tanaman di lingkungan SMAN 30 Jakarta bersama KIR."
+    />
+    <title>Flora of Thirty — KIR SMAN 30 Jakarta</title>
+    <link rel="icon" type="image/png" href="assets/logo-kir.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="site-intro" id="siteIntro" aria-hidden="true" hidden>
+      <div class="site-intro__content">
+        <img class="site-intro__logo" src="assets/logo-kir.png" alt="" />
+        <div class="site-intro__copy">
+          <p class="site-intro__title">KIR SMAN 30</p>
+          <p class="site-intro__subtitle">Flora of Thirty</p>
+        </div>
+      </div>
+    </div>
+    <a class="skip-link" href="#katalog">Lewati ke katalog</a>
+
+    <header class="site-header">
+      <a class="brand" href="./index.html#beranda" aria-label="Flora of Thirty, beranda">
+        <img src="assets/logo-kir.png" alt="Logo Kelompok Ilmiah Remaja SMAN 30 Jakarta" />
+        <span class="brand-copy">
+          <strong>FLORA <span>OF THIRTY</span></strong>
+          <small>Kelompok Ilmiah Remaja · SMAN 30 Jakarta</small>
+        </span>
+      </a>
+      <nav class="main-nav" aria-label="Navigasi utama">
+        <a href="./index.html#katalog"><span>Katalog</span><span class="nav-menu-icon" aria-hidden="true">↗</span></a>
+        <button class="nav-suggestion" id="openSuggestion" type="button"><span>Usul tanaman</span><span class="nav-menu-icon" aria-hidden="true">＋</span></button>
+        <button class="theme-toggle theme-toggle-mobile" id="themeToggleMobile" type="button" aria-label="Aktifkan mode gelap" aria-pressed="false"><span class="theme-menu-action">Mode gelap</span><span class="nav-menu-icon" aria-hidden="true">☾</span></button>
+      </nav>
+      <button class="theme-toggle" id="themeToggle" type="button" aria-label="Aktifkan mode gelap" aria-pressed="false"><span aria-hidden="true">☾</span></button>
+      <button class="menu-toggle" id="menuToggle" type="button" aria-label="Buka navigasi" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </header>
+
+    <main id="beranda">
+      <section class="hero" aria-labelledby="heroTitle">
+        <div class="hero-slideshow" id="heroSlideshow">
+          <a class="hero-slide is-active" id="heroSlideA" href="./index.html?tanaman=bunga-telang" aria-label="Lihat detail tanaman Bunga telang">
+            <img src="assets/flora/Bunga%20telang%20-%20Clitoria%20ternatea.jpg" alt="" fetchpriority="high" />
+            <span class="hero-slide-caption"><strong>Bunga telang</strong><span>Lihat detail <span aria-hidden="true">↗</span></span></span>
+          </a>
+          <a class="hero-slide" id="heroSlideB" href="./index.html?tanaman=jawer-kotok" aria-label="Lihat detail tanaman Jawer kotok" aria-hidden="true" tabindex="-1">
+            <img src="assets/flora/Jawer%20kotok%20-%20Coleus%20scutellarioides.jpg" alt="" loading="lazy" decoding="async" />
+            <span class="hero-slide-caption"><strong>Jawer kotok</strong><span>Lihat detail <span aria-hidden="true">↗</span></span></span>
+          </a>
+        </div>
+        <div class="hero-content">
+          <h1 id="heroTitle">Kenali yang<br /><em>tumbuh</em> di sekitar kita.</h1>
+          <p class="hero-intro">Jelajahi nama-nama tanaman yang menghiasi sudut-sudut SMAN 30 Jakarta.</p>
+          <a class="hero-cta" href="#katalog">Jelajahi katalog <span aria-hidden="true">↘</span></a>
+        </div>
+      </section>
+
+      <section class="catalog-wrap" id="katalog" aria-labelledby="catalogTitle">
+        <div class="catalog-intro">
+          <div>
+            <p class="section-kicker">ARSIP TANAMAN SEKOLAH</p>
+            <h2 id="catalogTitle">Ruang jelajah flora<span>.</span></h2>
+            <p class="section-desc">Cari nama tanaman atau pilih area untuk melihat catatan di sekitarnya.</p>
+          </div>
+          <div class="catalog-counts" aria-label="Ringkasan katalog">
+            <div><strong id="plantCount">—</strong><span>nama tanaman</span></div>
+            <i aria-hidden="true"></i>
+            <div><strong id="areaCount">—</strong><span>area sekolah</span></div>
+          </div>
+        </div>
+
+        <div class="search-panel">
+          <label class="search-box" for="plantSearch">
+            <svg aria-hidden="true" viewBox="0 0 24 24"><circle cx="10.8" cy="10.8" r="6.8"></circle><path d="m16 16 5 5"></path></svg>
+            <input id="plantSearch" type="search" placeholder="Cari nama tanaman..." autocomplete="off" />
+            <kbd>⌕</kbd>
+          </label>
+          <label class="area-select-label" for="areaFilter">
+            <span class="sr-only">Filter berdasarkan area</span>
+            <select id="areaFilter" aria-label="Filter berdasarkan area">
+              <option value="">Semua area</option>
+            </select>
+            <span class="select-chevron" aria-hidden="true">⌄</span>
+          </label>
+          <button class="random-button" id="randomCatalog" type="button" aria-label="Pilih tanaman secara acak">
+            <span aria-hidden="true">✳</span><span>Acak</span>
+          </button>
+        </div>
+
+        <div class="alphabet-row">
+          <span class="alphabet-label">JELAJAHI HURUF</span>
+          <div class="alphabet" id="alphabet" role="group" aria-label="Filter nama berdasarkan huruf awal"></div>
+        </div>
+
+        <div class="results-bar">
+          <p id="resultsSummary" aria-live="polite">Memuat tanaman...</p>
+          <div class="results-actions">
+            <button id="favoritesFilter" class="favorites-filter" type="button" aria-pressed="false" disabled><span aria-hidden="true">&#9825;</span><span>Favorit</span><span id="favoriteCount">0</span></button>
+            <button id="clearFilters" class="clear-button" type="button" hidden>Hapus filter <span aria-hidden="true">&times;</span></button>
+          </div>
+        </div>
+
+        <div class="plant-grid" id="plantGrid"></div>
+        <div class="empty-state" id="emptyState" hidden>
+          <span class="empty-icon" aria-hidden="true">⌕</span>
+          <h3>Belum ada nama yang cocok</h3>
+          <p>Coba kata kunci atau area lain.</p>
+          <button class="text-button" id="emptyClear" type="button">Tampilkan semua tanaman</button>
+        </div>
+      </section>
+
+      <section class="detail-page" id="detailPage" hidden aria-labelledby="detailName">
+        <div class="detail-hero">
+          <div class="detail-breadcrumb"><a href="./index.html#katalog">← Kembali ke katalog</a><span>/</span><span>Detail tanaman</span></div>
+          <p class="detail-eyebrow"><span aria-hidden="true">✳</span> FLORA OF THIRTY · SMAN 30 JAKARTA</p>
+          <div class="detail-heading-row">
+            <div>
+              <span class="detail-initial" id="detailInitial" aria-hidden="true">F</span>
+              <h1 id="detailName"></h1>
+              <p class="detail-area-summary" id="detailAreaSummary"></p>
+            </div>
+            <div class="detail-actions"><button class="favorite-detail" id="favoriteDetail" type="button" aria-pressed="false" aria-label="Simpan tanaman ke favorit" hidden><span id="favoriteDetailIcon" aria-hidden="true">&#9825;</span><span id="favoriteDetailLabel">Simpan favorit</span></button><button class="share-plant" id="sharePlant" type="button"><span aria-hidden="true">↗</span> Salin tautan tanaman</button></div>
+          </div>
+          <div class="detail-hero-rule"><span></span><small>CATATAN FLORA SEKOLAH</small><span></span></div>
+        </div>
+
+        <div class="detail-content" id="detailContent">
+          <figure class="detail-photo" id="detailPhoto" hidden>
+            <button class="detail-photo-zoom" id="photoZoom" type="button" aria-label="Perbesar foto tanaman">
+              <img id="detailPhotoImage" alt="" loading="lazy" decoding="async" />
+              <span class="photo-zoom-icon" aria-hidden="true">&#x2922;</span>
+            </button>
+            <figcaption id="detailPhotoCaption"></figcaption>
+          </figure>
+          <section class="detail-card botany-card" aria-labelledby="botanyTitle">
+            <span class="botany-mark" aria-hidden="true">✳</span>
+            <p class="detail-section-kicker">ENSIKLOPEDIA FLORA</p>
+            <h2 id="botanyTitle">Kenali lebih jauh</h2>
+            <p class="botany-id-status" id="botanyIdStatus"></p>
+            <div class="botany-facts">
+              <div><h3>Nama ilmiah</h3><p id="botanyScientific"></p></div>
+              <div><h3>Ciri-ciri</h3><p id="botanyCharacteristics"></p></div>
+              <div><h3>Manfaat</h3><p id="botanyBenefits"></p></div>
+            </div>
+            <div class="botany-profile-fields" id="botanyProfileFields" hidden>
+              <div class="botany-facts">
+                <div><h3>Bunga / perkembangbiakan</h3><p id="botanyFlower"></p></div>
+                <div><h3>Habitat dan sebaran</h3><p id="botanyHabitat"></p></div>
+                <div><h3>Panduan perawatan</h3><p id="botanyCare"></p></div>
+                <div><h3>Fakta / sejarah</h3><p id="botanyFact"></p></div>
+              </div>
+              <p class="botany-caution" id="botanyCrossCheck" hidden></p>
+              <div class="botany-references" id="botanyReferences" hidden>
+                <h3>Rujukan profil LT1</h3>
+                <ul id="botanyReferenceList"></ul>
+              </div>
+            </div>
+            <p class="botany-caution" id="botanyCaution" hidden></p>
+            <a id="botanySource" href="https://powo.science.kew.org/" target="_blank" rel="noopener noreferrer"><span id="botanySourceLabel">Kew POWO</span> <span aria-hidden="true">↗</span></a>
+            <p class="botany-editorial-note">Keterangan manfaat merangkum penggunaan umum yang tercatat pada sumber. Tidak menjadi anjuran konsumsi atau pengobatan.</p>
+            <a class="botany-help" href="./index.html#katalog">Kembali ke katalog <span aria-hidden="true">↗</span></a>
+          </section>
+          <section class="detail-card detail-locations-card" aria-labelledby="detailLocationsTitle">
+            <p class="detail-section-kicker">DARI CATATAN SEKOLAH</p>
+            <h2 id="detailLocationsTitle">Area tanaman</h2>
+            <p class="detail-lead" id="detailLead"></p>
+            <p class="detail-source-note">Lokasi dicocokkan dengan dokumen inspeksi Flora of Thirty (LT1).</p>
+            <div class="detail-location-list" id="detailLocations"></div>
+          </section>
+        </div>
+        <div class="detail-not-found" id="detailNotFound" hidden>
+          <span class="empty-icon" aria-hidden="true">?</span>
+          <h2>Tanaman tidak ditemukan</h2>
+          <p>Tautan ini mungkin tidak valid atau nama tanamannya sudah berubah.</p>
+          <a class="hero-cta" href="./index.html#katalog">Kembali ke katalog <span aria-hidden="true">↘</span></a>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <a class="footer-brand" href="./index.html#beranda"><img src="assets/logo-kir.png" alt="" /><span><strong>FLORA OF THIRTY</strong><small>Kelompok Ilmiah Remaja · SMAN 30 Jakarta</small></span></a>
+      <p>Menjelajahi flora, satu nama pada satu waktu.</p>
+      <a class="back-top" href="./index.html#beranda">Kembali ke atas <span aria-hidden="true">↑</span></a>
+    </footer>
+
+    <dialog class="suggestion-dialog" id="suggestionDialog" aria-labelledby="suggestionTitle">
+      <button class="dialog-close" id="closeSuggestion" type="button" aria-label="Tutup formulir">×</button>
+      <p class="dialog-kicker">KIR SMAN 30 JAKARTA</p>
+      <h2 id="suggestionTitle">Kirim usulan</h2>
+      <p class="suggestion-intro">Tambahkan nama tanaman atau beri tahu jika ada nama yang perlu dikoreksi.</p>
+      <form id="suggestionForm">
+        <label for="suggestionName">Nama tanaman atau koreksi</label>
+        <input id="suggestionName" name="name" type="text" maxlength="100" required placeholder="Contoh: nama tanaman yang belum tercatat" />
+        <label for="suggestionArea">Area sekolah <span>(opsional)</span></label>
+        <select id="suggestionArea" name="area"><option value="">Pilih area</option></select>
+        <label for="suggestionNotes">Catatan <span>(opsional)</span></label>
+        <textarea id="suggestionNotes" name="notes" rows="3" maxlength="500" placeholder="Keterangan singkat untuk tim KIR"></textarea>
+        <p class="local-note" id="submissionNote">Untuk prototipe ini, usulan tersimpan di browser/perangkat ini dan belum terkirim ke KIR.</p>
+        <button class="export-suggestions" id="exportSuggestions" type="button" hidden>Unduh usulan tersimpan</button>
+        <button class="submit-suggestion" type="submit">Simpan usulan <span aria-hidden="true">↗</span></button>
+        <p class="form-status" id="formStatus" role="status"></p>
+      </form>
+    </dialog>
+
+    <dialog class="photo-lightbox" id="photoLightbox" aria-labelledby="photoLightboxTitle" aria-describedby="photoLightboxCaption">
+      <h2 class="sr-only" id="photoLightboxTitle">Foto tanaman</h2>
+      <button class="lightbox-close" id="closePhotoLightbox" type="button" aria-label="Tutup foto">&times;</button>
+      <img id="photoLightboxImage" alt="" />
+      <p id="photoLightboxCaption"></p>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="plants.js"></script>
+    <script src="botany.js"></script>
+    <script src="flora-details.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

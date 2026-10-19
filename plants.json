@@ -1,0 +1,1168 @@
+﻿[
+    {
+        "name":  "Adam hawa",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Alpukat",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+                        "Pohon alpukat"
+                    ]
+    },
+    {
+        "name":  "Andong / hanjuang",
+        "locations":  [
+                          "Depan labkim",
+                          "Koperasi",
+                          "Mulmed (L)",
+                          "Parkiran guru",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Andong",
+                        "Andong merah",
+                        "Hanjuang hijau",
+                        "Hanjuang merah"
+                    ]
+    },
+    {
+        "name":  "Anggrek labang",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Anggur",
+        "locations":  [
+                          "Depan lemari piala (L)"
+                      ],
+        "aliases":  [
+                        "Pohon anggur"
+                    ]
+    },
+    {
+        "name":  "Anggur Brazil",
+        "locations":  [
+                          "Depan labfis",
+                          "Depan ruang musik"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Ararea / aralia",
+        "locations":  [
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+                        "Ararea"
+                    ]
+    },
+    {
+        "name":  "Areca palm",
+        "locations":  [
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Artabotrys siamensis",
+        "locations":  [
+                          "Gang kantin"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Asoka / soka",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Depan mulmed",
+                          "Depan perpus"
+                      ],
+        "aliases":  [
+                        "Asoka",
+                        "Bunga Asoka",
+                        "ixora"
+                    ]
+    },
+    {
+        "name":  "Asparagus asparagoides",
+        "locations":  [
+                          "Mulmed (L)"
+                      ],
+        "aliases":  [
+                        "Asparagus asparagoidess"
+                    ]
+    },
+    {
+        "name":  "Awar-awar",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bakung lele",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan perpus"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bakung putih",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bamboo palm",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Depan ruang musik",
+                          "Kebun",
+                          "Koperasi",
+                          "Mulmed (L)",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Bambu Jepang",
+                        "Palem bambu",
+                        "Palem bambu/bambu Jepang"
+                    ]
+    },
+    {
+        "name":  "Bayam duri",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bayam liar",
+        "locations":  [
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Belimbing wuluh",
+        "locations":  [
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Blimbing wuluh"
+                    ]
+    },
+    {
+        "name":  "Beringin",
+        "locations":  [
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bunga kertas / bougenville",
+        "locations":  [
+                          "Depan labfis",
+                          "Depan labkim",
+                          "Depan perpus",
+                          "Gerbang belakang",
+                          "Kebun",
+                          "Koperasi",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "bougenvill",
+                        "Bougenville",
+                        "Bunga kertas"
+                    ]
+    },
+    {
+        "name":  "Bunga telang",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Bungur kecil",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Cabai",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Belakang labkim",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labkim",
+                          "Gang kantin",
+                          "Kebun"
+                      ],
+        "aliases":  [
+                        "Cabe",
+                        "Pohon cabe"
+                    ]
+    },
+    {
+        "name":  "Calathea ornata",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Cemara Norfolk",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Mulmed (L)",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Araucaria heterophylla"
+                    ]
+    },
+    {
+        "name":  "Ceri Suriname",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Ciplukan",
+        "locations":  [
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Daun katuk",
+        "locations":  [
+                          "Depan mulmed"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Dracaena fragrans",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Depan labfis",
+                          "Mulmed (L)"
+                      ],
+        "aliases":  [
+                        "Dracaena fragrans \u0027Janet lind\u0027"
+                    ]
+    },
+    {
+        "name":  "Epiphyllum pumilum",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Epiphyllum umum",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+                        "Epiphyllum"
+                    ]
+    },
+    {
+        "name":  "Gelombang cinta",
+        "locations":  [
+                          "Depan Ruang wakil (D)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Glodokan tiang",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labfis"
+                      ],
+        "aliases":  [
+                        "Gelodokan tiang"
+                    ]
+    },
+    {
+        "name":  "Hati ungu",
+        "locations":  [
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Insulin",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Jambu biji",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan labkim",
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Jambu",
+                        "Pohon jambu",
+                        "Pohon jambu biji"
+                    ]
+    },
+    {
+        "name":  "Jarak pagar",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Jawer kotok",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Jeruk kasturi",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Jeruk kingkit / cingkit",
+        "locations":  [
+                          "Kebun",
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Jeruk cingkit",
+                        "Jeruk kingkit"
+                    ]
+    },
+    {
+        "name":  "Jeruk nipis",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+                        "Daun Jeruk Nipis"
+                    ]
+    },
+    {
+        "name":  "Kaktus",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kalanchoe laetivirens",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kamboja",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kamboja Jepang",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Karet kebo / bunga karet",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan ruang piket lt 1",
+                          "Depan Ruang wakil (D)",
+                          "Koperasi",
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+                        "Bunga karet",
+                        "Karet kebo"
+                    ]
+    },
+    {
+        "name":  "Keladi katak",
+        "locations":  [
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kembang sepatu",
+        "locations":  [
+                          "Gerbang belakang",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kemoyang",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labfis"
+                      ],
+        "aliases":  [
+                        "Tanaman kemoyang"
+                    ]
+    },
+    {
+        "name":  "Kemuning",
+        "locations":  [
+                          "Mulmed (L)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kenanga Cina",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Ketapang",
+        "locations":  [
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Ketapang biola",
+        "locations":  [
+                          "Depan ruang piket lt 1"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kiara payung",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Mulmed (L)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Kuping gajah",
+        "locations":  [
+                          "Belakang labkim",
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Labu / squash",
+        "locations":  [
+                          "Belakang kantin"
+                      ],
+        "aliases":  [
+                        "squash leaf"
+                    ]
+    },
+    {
+        "name":  "Lacy tree philodendron",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Lee Kwan Yew",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Lengkuas",
+        "locations":  [
+                          "Koperasi"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Lidah buaya",
+        "locations":  [
+                          "Belakang labkim",
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Lidah mertua",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Belakang kantin",
+                          "Belakang labkim",
+                          "Dekat air mancur",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labkim",
+                          "Depan lemari piala (L)",
+                          "Depan mulmed",
+                          "Depan perpus",
+                          "Gerbang belakang",
+                          "Kebun",
+                          "Lapangan bultang",
+                          "Mulmed (L)",
+                          "Parkiran guru",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Lili Paris",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Lily Paris"
+                    ]
+    },
+    {
+        "name":  "Mahoni",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Mangga",
+        "locations":  [
+                          "Dekat wall climbing",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Lapangan bultang",
+                          "Ruang paskib"
+                      ],
+        "aliases":  [
+                        "Pohon mangga"
+                    ]
+    },
+    {
+        "name":  "Melati kampung",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Melati tempel",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Melinjo",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+                        "Pohon Melinjo"
+                    ]
+    },
+    {
+        "name":  "Melon",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+                        "Melon angar"
+                    ]
+    },
+    {
+        "name":  "Mengkudu",
+        "locations":  [
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Mimba",
+        "locations":  [
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Pohon mimba"
+                    ]
+    },
+    {
+        "name":  "Money tree",
+        "locations":  [
+                          "Depan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Oleander kuning",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+                        "Cascabela thevetia"
+                    ]
+    },
+    {
+        "name":  "Pacar cina",
+        "locations":  [
+                          "Depan ruang piket lt 1"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Pakis hias",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan Ruang wakil (D)"
+                      ],
+        "aliases":  [
+                        "Pakis"
+                    ]
+    },
+    {
+        "name":  "Pakis monyet",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Pakis rem Cina",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Paku sarang burung",
+        "locations":  [
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Paku sepat",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Paku tanduk rusa",
+        "locations":  [
+                          "Depan ruang piket lt 1"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Palem Jepang",
+        "locations":  [
+                          "Depan ruang piket lt 1"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Palem umum",
+        "locations":  [
+                          "Depan labkim",
+                          "Depan mulmed"
+                      ],
+        "aliases":  [
+                        "Palem"
+                    ]
+    },
+    {
+        "name":  "Pandan Bali",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan Ruang wakil (D)",
+                          "Gerbang belakang",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Pandan bali muda"
+                    ]
+    },
+    {
+        "name":  "Pandan bertanda tanya",
+        "locations":  [
+                          "Gang kantin"
+                      ],
+        "aliases":  [
+                        "Pandan?"
+                    ]
+    },
+    {
+        "name":  "Pandan suci",
+        "locations":  [
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Parlor palm",
+        "locations":  [
+                          "Belakang kantin"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Patah tulang kriwil",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Peace lily",
+        "locations":  [
+                          "Bagian Kanan Masjid"
+                      ],
+        "aliases":  [
+                        "Peace Lilly"
+                    ]
+    },
+    {
+        "name":  "Pepaya",
+        "locations":  [
+                          "Depan labkim",
+                          "Gang kantin",
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Daun pepaya",
+                        "Papaya"
+                    ]
+    },
+    {
+        "name":  "Petai belalang",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Philodendron Burle Marx",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan labkim",
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+                        "Philo brekele",
+                        "Philodendron burlemarks",
+                        "Phylo brekele"
+                    ]
+    },
+    {
+        "name":  "Philodendron Lemon Lime",
+        "locations":  [
+                          "Depan Masjid",
+                          "Depan ruang piket lt 1",
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Philodendron lemon"
+                    ]
+    },
+    {
+        "name":  "Philodendron umum",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+                        "Philodendron"
+                    ]
+    },
+    {
+        "name":  "Pohon “lemon”",
+        "locations":  [
+                          "Depan lemari piala (L)"
+                      ],
+        "aliases":  [
+                        "Pohon yg ada kata lemonnnya pokoknya"
+                    ]
+    },
+    {
+        "name":  "Pucuk merah",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labfis",
+                          "Depan mulmed",
+                          "Depan Ruang wakil (D)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Puring emas",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+                        "Puding emas"
+                    ]
+    },
+    {
+        "name":  "Resam",
+        "locations":  [
+                          "Depan labkim"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Rombusa silver",
+        "locations":  [
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Sacha inchi",
+        "locations":  [
+                          "Gerbang belakang"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Sambang darah",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labfis"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Sawo",
+        "locations":  [
+                          "Belakang labkim",
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+                        "Sawo Manila"
+                    ]
+    },
+    {
+        "name":  "Sereh",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+                        "Daun Sereh"
+                    ]
+    },
+    {
+        "name":  "Sirih",
+        "locations":  [
+                          "Kebun"
+                      ],
+        "aliases":  [
+                        "Daun sirih"
+                    ]
+    },
+    {
+        "name":  "Sirih gading",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan Ruang wakil (D)",
+                          "Kebun",
+                          "Mulmed (L)",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Epipremnum aureum",
+                        "Gading emas",
+                        "Sirih gading emas",
+                        "Sirih Gading Putih"
+                    ]
+    },
+    {
+        "name":  "Sirsak",
+        "locations":  [
+                          "Belakang labkim"
+                      ],
+        "aliases":  [
+                        "Daun sirsak"
+                    ]
+    },
+    {
+        "name":  "Song of India",
+        "locations":  [
+                          "Dekat air mancur"
+                      ],
+        "aliases":  [
+                        "Song of india/ dracaena reflexa"
+                    ]
+    },
+    {
+        "name":  "Sri rezeki",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Depan mulmed"
+                      ],
+        "aliases":  [
+                        "Daun bahagia /sri rejeki beras tumpah"
+                    ]
+    },
+    {
+        "name":  "Srigading",
+        "locations":  [
+                          "Depan Masjid"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Suji / suji belut",
+        "locations":  [
+                          "Dekat air mancur",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan lemari piala (L)",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "pohoj suji",
+                        "Pohon suji",
+                        "Suhi hijau",
+                        "Suji Belut"
+                    ]
+    },
+    {
+        "name":  "Syngonium",
+        "locations":  [
+                          "Belakang labkim",
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan lemari piala (L)"
+                      ],
+        "aliases":  [
+                        "Syngonium podophyllum",
+                        "Syngonium podopyhllum"
+                    ]
+    },
+    {
+        "name":  "Tanjung",
+        "locations":  [
+                          "Depan lemari piala (L)"
+                      ],
+        "aliases":  [
+                        "Pohon tanjung"
+                    ]
+    },
+    {
+        "name":  "Tapak dara",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran",
+                          "Depan labkim",
+                          "Kebun",
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+                        "Bunga tapak dara",
+                        "Tapak dara putih"
+                    ]
+    },
+    {
+        "name":  "Tecoma kuning",
+        "locations":  [
+                          "Depan lemari piala (L)",
+                          "Ruang wakil (L)"
+                      ],
+        "aliases":  [
+                        "Bunga terompet kuning",
+                        "Tecoma stans"
+                    ]
+    },
+    {
+        "name":  "Teh Siam / teh-tehan",
+        "locations":  [
+                          "Depan lab Biologi \u0026 sekitaran"
+                      ],
+        "aliases":  [
+                        "Teh Siam"
+                    ]
+    },
+    {
+        "name":  "Temulawak",
+        "locations":  [
+                          "Lapangan bultang"
+                      ],
+        "aliases":  [
+                        "Temu luwak"
+                    ]
+    },
+    {
+        "name":  "Terong",
+        "locations":  [
+                          "Bagian Kanan Masjid",
+                          "Kebun"
+                      ],
+        "aliases":  [
+
+                    ]
+    },
+    {
+        "name":  "Wijaya kusuma",
+        "locations":  [
+                          "Mulmed (L)",
+                          "Parkiran guru"
+                      ],
+        "aliases":  [
+
+                    ]
+    }
+]
